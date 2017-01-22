@@ -1,0 +1,26 @@
+
+h1 { text-align: center;
+}
+article {
+        display: inline-block;}
+img {
+            float: right;
+            margin: 0px 0px 20px 10px;
+        }
+body { background-color: #ADD8E6;
+        font-size: 21px;
+		max-width: 900px;
+		font-family: cursive;
+	    margin: auto;}
+footer {
+        text-align: center;}
+.right_block { float:right;
+	font-size: 21px;
+    margin: auto;
+
+}
+.fspace{text-align: center;
+		font-size: 18;
+		font-family: sans-serif;
+
+}
